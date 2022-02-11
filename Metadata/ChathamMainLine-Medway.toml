@@ -1,0 +1,13 @@
+rly_file = "ChathamMainLine-Medway.rly"
+ttb_files = []
+img_files = []
+doc_files = [ "README.md",]
+release_date = "2022-02-11"
+version = "1.0.0"
+country_code = "GB"
+factual = true
+description = ""
+display_name = "Chathammainline Medway"
+name = "Chathammainline Medway"
+author = "Skye Haynes"
+contributors = []
