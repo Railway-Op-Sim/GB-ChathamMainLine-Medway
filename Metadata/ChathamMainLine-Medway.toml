@@ -1,5 +1,5 @@
 rly_file = "ChathamMainLine-Medway.rly"
-ttb_files = []
+ttb_files = [ "ChathamMainLine-Medway OffPeak.ttb", "ChathamMainLine-Medway Peak.ttb",]
 img_files = []
 doc_files = [ "README.md",]
 release_date = "2022-02-11"
