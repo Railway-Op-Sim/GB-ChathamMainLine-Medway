@@ -1,33 +1,29 @@
 ## Chatham Main Line Rochester to Faversham + Medway Valley & Sheerness Lines
 
-Chislehurst Junction is a major point on both the Chatham and Southeastern Main Lines, allowing servics to travel between Victoria, Blackfriars, Cannon Street, and Charing Cross and both main Lines, and receives, a very intense service. Can you keep up with the trains and make sure they reach their destinations on time? 
+The Chatham Main Line is a busy railway stretching from Central London and the West End in the North through the London commuter towns of Medway, Sittingbourne, Faversham, Whitstable, Herne Bay, Ramsgate, Canterbury and many more. It is a vital link to the south coast, providing faster and more direct services than the South Eastern Main Line and serving more communities than HS1 could ever dream of. Despite the importance, much of the line, even within London, is only double tracked, leaving only short sections of track for trains to overtake. Can you accurately signal and route trains to make sure everyone gets to there destinations on time? Id you can, you can safely claim you are better than both Southeastern and Thameslink combined. 
 
 Includes: 
-Chatham Mainline from beckenham Hill/Beckenham Jnc to Farningham Road/Eynsford 
-Southeastern Main line from Grove to Petts Wood 
-Bromley North line operating a shuttle between Grove Park and Bromley North 3 times per hours 
-Off Peak and Peak hourtimetables providing 12 hours of signalling and routing 
-Faithfully recreated track, switch and signalling layouts using real world data 
+<br>Chatham Main Line from Rochester Bridge Junction to Faversham Junction 
+<br>North Kent Line from Higham Tunnel to Strood for HS1 and Thameslink services 
+<br>Sheerness Line from Sittingbourne / Newington to Sheerness-on-Sea 
+<br>Medway Valley Line from Strood to Paddock Wood, with services running onwards to Tonbridge 
+<br>Off Peak and Peak Hour timetables totaling 12 hours of signalling 
+<br>Faithfully re-created track, switch, and signalling layouts using real world data 
 
 Off Peak Services: 
+<br>1tph St Pancras to Ramsgate via Gaversham 
+<br>2tph Luton to Rainham via Greenwich 
 <br>1tph Victoria to Ramsgate via Faversham 
-<br>1tph Victoria to Ramsgate via Ashford Int'l 
 <br>1tph Victoria to Dover Priory via Faversham 
 <br>1tph Victoria to Gillingham 
-<br>1tph Victoria to Ashford International 
-<br>1tph Charing Cross to Ramsgate via Tonbridge 
-<br>2tph Charing Cross to Hastings 
-<br>2tph Cannon Street to Oprington via Grove Park 
-<br>2tph Sevenoaks via Grove Park 
-<br>3pth Grove Park to Bromley North 
-<br>2tph Victoria to Orpington 
+<br>2tph Sittingbourne to Sheerness-on-Sea 
+<br>2tph Strood to Tonbridge 
 
 Additional Peak Services: 
-<br>2tph Charing Cross to Tunbridge Wells 
-<br>2tph Victoria to Bromley South 
-<br>1tph Victoria to Gillingham 
+<br>1tph Ramsgate to Cannon Street (London-bound only) 
 <br>1tph Broadstairs to Cannon Street (London-bound only) 
-<br>1tph Ramsgate to Cannon Street (London-bound only)
+<br>1tph St Pancras to Faversham 
+<br>1tph Gillingham to Cannon Street via Gravesend
 
 
 ![Image of Current State of Map](Images/ChathamMainLine-Medway.bmp)
