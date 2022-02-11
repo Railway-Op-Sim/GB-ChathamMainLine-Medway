@@ -10,24 +10,24 @@ Off Peak and Peak hourtimetables providing 12 hours of signalling and routing
 Faithfully recreated track, switch and signalling layouts using real world data 
 
 Off Peak Services: 
-1tph Victoria to Ramsgate via Faversham 
-1tph Victoria to Ramsgate via Ashford Int'l 
-1tph Victoria to Dover Priory via Faversham 
-1tph Victoria to Gillingham 
-1tph Victoria to Ashford International 
-1tph Charing Cross to Ramsgate via Tonbridge 
-2tph Charing Cross to Hastings 
-2tph Cannon Street to Oprington via Grove Park 
-2tph Sevenoaks via Grove Park 
-3pth Grove Park to Bromley North 
-2tph Victoria to Orpington 
+<br>1tph Victoria to Ramsgate via Faversham 
+<br>1tph Victoria to Ramsgate via Ashford Int'l 
+<br>1tph Victoria to Dover Priory via Faversham 
+<br>1tph Victoria to Gillingham 
+<br>1tph Victoria to Ashford International 
+<br>1tph Charing Cross to Ramsgate via Tonbridge 
+<br>2tph Charing Cross to Hastings 
+<br>2tph Cannon Street to Oprington via Grove Park 
+<br>2tph Sevenoaks via Grove Park 
+<br>3pth Grove Park to Bromley North 
+<br>2tph Victoria to Orpington 
 
 Additional Peak Services: 
-2tph Charing Cross to Tunbridge Wells 
-2tph Victoria to Bromley South 
-1tph Victoria to Gillingham 
-1tph Broadstairs to Cannon Street (London-bound only) 
-1tph Ramsgate to Cannon Street (London-bound only)
+<br>2tph Charing Cross to Tunbridge Wells 
+<br>2tph Victoria to Bromley South 
+<br>1tph Victoria to Gillingham 
+<br>1tph Broadstairs to Cannon Street (London-bound only) 
+<br>1tph Ramsgate to Cannon Street (London-bound only)
 
 
 ![Image of Current State of Map](Images/ChathamMainLine-Medway.bmp)
